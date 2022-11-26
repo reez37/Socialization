@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+    color: rgb(14, 0, 51);
+    text-shadow: 0px 0px 1px rgb(0, 0, 0);
+}
+#root{
+    background-image: -webkit-linear-gradient(360deg, #b4eeeb 0%, #bafab1 100%);
+
+}
+
